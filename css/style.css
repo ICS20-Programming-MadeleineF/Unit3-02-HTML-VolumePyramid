@@ -1,0 +1,30 @@
+body{
+  background-color:#FFC000;
+  text-align:center;
+}
+
+h2{
+  color:#F28C28;
+  background-color:#FFFF8F;
+  padding:15px;
+}
+
+h3{
+  color:#F28C28;
+  background-color:#FFFF8F;
+}
+
+h4{
+  color:#F28C28;
+  background-color:#FFFF8F;
+}
+
+p{
+  color:#F28C28;
+  background-color:#FFFF8F;
+  padding:10px;
+}
+
+label{
+  color:#F28C28;
+}
